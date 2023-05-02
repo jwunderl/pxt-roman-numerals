@@ -55,7 +55,6 @@ namespace roman {
         return Numeral.M;
     }
 
-    // desc
     //% weight=0
     //% blockId="romanNumeralConcat"
     //% inlineInputMode="inline"
